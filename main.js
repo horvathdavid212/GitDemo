@@ -4,6 +4,6 @@ var p = 3;
 
 p++;
 
-var five = 10;
+var five = 5;
 
 console.log(five);
