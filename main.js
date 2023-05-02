@@ -4,4 +4,6 @@ var p = 3;
 
 p++;
 
-console.log(p);
+var five = 10;
+
+console.log(five);
